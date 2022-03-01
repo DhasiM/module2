@@ -5,6 +5,7 @@ This repo is the collective work of [DSI DARLM](team) for module 2 of the [DSI A
  
 ## About the Challenge
 
+
 Artificial intelligence is shaping the future of stock trading and has removed some of the guess work out of this high risk business. And while some hedge funds are relucatant to fully automate the process, many rely on AI powered algorithms to shape their decision making.
 
 In this kaggle challenge, hosted by [Ubiquant Investment (Beijing) Co., Ltd](https://www.kaggle.com/c/ubiquant-market-prediction/overview), the goal was to build a model that forecasts an investment's return rate. Ubiquant Investment relies on international talents in math and computer science along with cutting-edge technology to drive quantitative financial market investment. This challenge offers an opportunity for the team to delve in time-series analysis, forecasting and optimisation.
