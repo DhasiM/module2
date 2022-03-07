@@ -27,11 +27,9 @@ This challenge was evaluated on the mean of the [Pearson Correlation Coefficient
 
 ## Model Overview
 
-![wip](https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif)
+A bagging ensemble of four deep neural networks including an LSTM model. The predictions from each model are average by taking a mean and this is the final prediction.
 
-## Technologies
 
-## Notebook
 
 ## Resources
 
